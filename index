@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta charset="UTF-8">
+    <title>Madagascar(le film)</title>
+	<link href="index.css" rel="stylesheet" />
+	</head>
+	
+	<h1><center>MADAGASCAR</center></h1>
+	
+	<p1><center> Bonjour et bienvenue sur ma page web ! Je vous invite à cliquer sur l'une des images ci-dessous afin de découvrir 
+	l'incroyable univers du monde de<strong> Madagascar :</strong></center></p1>
+	<BR>
+	
+	<body>
+	<div class="image-container">
+	 <a href="mada">
+      <img src="https://i.pinimg.com/564x/ec/df/8f/ecdf8fa7129caad8dc4f0ad57acb3503.jpg" class="cercle">
+     </a>
+	  <p><Y>présentation générale du <br><y>film et de ses personnages</y></Y></p>
+	</div>
+	
+	 
+	<div class="image-container">
+	 <a href="mada1">
+      <img src="https://i.pinimg.com/564x/09/b6/a2/09b6a28dd3f91e1a0887d4a173b4344f.jpg" class="cercle">
+     </a>
+	  <p>Madagascar 1<br>          <s>.</s></p>
+	</div>
+	 
+	 <div class="image-container">
+	 <a href="mada2">
+      <img src="https://i.pinimg.com/564x/e6/32/af/e632afeaebed87b13c326b257a691f60.jpg" class="cercle">
+     </a>
+	  <p>Madagascar 2:<br> La grande évasion</p>
+	</div>
+	
+	 <div class="image-container">
+	 <a href="mada3">
+      <img src="https://i.pinimg.com/564x/4d/29/e5/4d29e5d8d2a52c7c02af15e634b553f5.jpg" class="cercle">
+     </a>
+	  <p><Z>Madagascar 3:<br> Bon baisers d'Europe</Z></p>
+	</div>
+	</body>

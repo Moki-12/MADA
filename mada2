@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta charset="UTF-8">
+    <title>Madagascar(le film)</title>
+	<link href="mada2.css" rel="stylesheet" />
+	
+    <div class="banniere"> 
+	<h1><center>MADAGASCAR 2<br><FONT size="40pt"> La grande évasion</FONT></center></h1>
+	</div>
+	</head>
+	<br>
+	<body>
+	<center><img src ="https://i.pinimg.com/564x/70/3f/41/703f413ada07d43fb053af63d3d4573b.jpg" alt ="film" height = "500" width = "360"/><center>
+	</body>
+	
+	<div class="bordered-text">
+	<p>Dans ce deuxième volet nous retrouvons Alex, Marty, Melman et Gloria qui tentent de retourner chez eux à New York après s'être échoués sur
+	l'île de Madagascar dans le premier film. Pour leur plus grand plaisir, les pingouins réussissent à rafistoler l'épave d'un vieil avion et ils prennent ainsi 
+	tous la route en direction de l'Amérique accompagnés du roi Julian qui ne rate jamais une occasion de s'amuser. Cependant l'avion s'écrase en 
+	catastrophe en pleine savane Africaine et les animaux se retrouvent coincés dans une réserve naturelle et tous les amis de la bande vont alors commencer à renouer des liens avec les 
+    leurs espèces.</p>
+	</div>
+	
+	<div class="image-grid">
+      <div class="image-item">
+	  <div class="bordered-text">
+	     <div class="image-text"> Alex retrouve sa famille dont il avait été séparé lorsqu'il était plus jeune.</div>
+	  </div>
+	       <img src ="https://i.pinimg.com/564x/55/5d/30/555d302654cd059bcaa3f338112e3cb4.jpg" height = "360" width = "570" class="arrondie"/>
+	  </div>
+	  
+      <div class="image-item">
+	  <div class="bordered-text">
+	     <div class="image-text"> Marty s'intègre dans un troupeau de zèbre <br>qui lui ressemble trait pour trait.</div>
+	  </div>
+	<img src ="https://th.bing.com/th/id/R.913334853064ab959ede78b3c1e0e459?rik=pjU0opSiOu%2fFBA&riu=http%3a%2f%2fimage.cine21.com%2fresize%2fcine21%2fstill%2f2008%2f1120%2fM0020069_MAD2_04%5bS750%2c750%5d.jpg&ehk=fMlG%2bSUZ3sAJcM7wUN%2fIClm6Y%2b%2bJJzK5%2fKfr7Kra0I8%3d&risl=&pid=ImgRaw&r=0" height = "360" width = "570" class="arrondie"/>
+	   </div>
+	   
+	   <div class="image-item">
+	   <div class="bordered-text">
+	      <div class="image-text"> Melman devient le sorcier guérisseur de son troupeau de girafes.</div>
+	   </div>
+	<img src ="https://i.pinimg.com/736x/c9/45/a7/c945a7fb586448b6229987a29d0cd3de.jpg" height = "360" width = "570" class="arrondie"/>
+	    </div>
+		
+		<div class="image-item">
+		<div class="bordered-text">
+	<div class="image-text">Gloria à la recherche de l'amour, attire l'attention de l'hyppopotame Moto Moto.</div>
+	    </div>
+	<img src ="https://blah.ru/wp-content/uploads/2022/06/2022-06-14_13-43-48-73544293.png" height = "360" width = "570"/ class="arrondie">
+        </div>
+	</div>
+    <br>
+    <div class="bordered-text">
+    <p>L'histoire tournera principalement autour d'Alex et de sa famille mais pour tous les animaux, leur exitation et emerveillement se transformera rapidement en déception.
+	Alex humilié lors d'un combat désavantagé sera eclut de son troupeau, Marty devient de plus en plus déprimé car il ne se trouve plus unique 
+	à cause de tous les autres zèbres qui sont capables de reproduire chacunes de ses prouesses, Melman, victime d'une malédiction, tente à sauter 
+    du haut d'un volcan et Gloria est déçue de Moto Moto qui ne voit en elle que sa rondeur. Ayant chacun leur problème, des tensions vont rapidement émergées au sein du groupe d'amis.</p>
+	</div>
+	<br>
+	<br>
+	<pa>Réussiront-ils à s'adapter à ce nouvelle environnement qu'est la vie sauvage et surtout à régler les tentions qui surviennent entre eux dans leur groupe d'amis ? Je vous laisse <a href="https://youtu.be/IPYghcrImKE">Cliquer ici</a> 
+	afin de découvrir la bande d'annonce du film.</pa>
+	<br>
+    <a href='#' class="bouton" onclick="history.back();">RETOUR</button></a>
+	
+	<button class="suivant" onclick="window.location.href='mada3'">Madagascar 3</button>
+	
+	<div class="menu">
+    <a href="index">ACCUEIL</a>
+    </div>
+	
+</html>

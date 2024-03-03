@@ -1,0 +1,282 @@
+.banniere {
+	padding: 100xp;
+    background-image: url("https://i.pinimg.com/564x/d4/eb/db/d4ebdbf6a223ac6ad86b422742c326f6.jpg");
+	background-size: 1450px 600px;
+	background-repeat:no-repeat;
+    background-position:center ;
+    opacity: 0.9;
+	height: 48vh;
+}
+
+.arrondie {
+   border-radius: 15px; 
+}
+
+.image-container0 {
+    display: flex;
+    flex-direction: column;
+	position: relative;
+	top: 40px;
+    left: 60px;
+}
+.image-container1 {
+    display: flex;
+    flex-direction: column;
+	position: relative;
+	top: 80px;
+    left: 640px;
+}
+
+.image-container2 {
+    display: flex;
+    flex-direction: column;
+	position: relative;
+	top: 120px;
+    left: 60px;
+}
+.image-container3 {
+    display: flex;
+    flex-direction: column;
+	position: relative;
+	top: 160px;
+    left: 640px;
+}
+.image-container4 {
+    display: flex;
+    flex-direction: column;
+	position: relative;
+	top: 200px;
+    left: 60px;
+}
+.image-container5 {
+    display: flex;
+	flex-wrap: wrap;
+    flex-direction: column;
+	position: relative;
+	top: 240px;
+    left: 640px;
+}
+.image-container6 {
+    display: flex;
+    flex-direction: column;
+	position: relative;
+	top: 280px;
+    left: 60px;
+}
+
+.box0 {
+	  font-size: 16px;
+	  font-family: "Bradley Hand", cursive;
+	  position: absolute;
+	  width:300px;
+	  top: 12px;
+      right: 290px;
+	  margin:0 auto;
+      padding: 20px;
+	  background-color:white;
+      border: 4px solid orange;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+	  border-radius: 28px;
+}
+.box1 {
+	  font-size: 16px;
+	  font-family: "Bradley Hand", cursive;
+	  position: absolute;
+	  width:300px;
+	  top: 190px;
+      LEFT: -400px;
+	  margin:0 auto;
+      padding: 20px;
+	  background-color:white;
+      border: 4px solid orange;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+	  border-radius: 28px;
+}
+.box2 {
+	  font-size: 16px;
+	  font-family: "Bradley Hand", cursive;
+	  position: absolute;
+	  width:300px;
+	  top: 230px;
+      right: 300px;
+	  margin:0 auto;
+      padding: 20px;
+	  background-color:white;
+      border: 4px solid orange;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+	  border-radius: 28px;
+}
+.box3 {
+	  font-size:16px;
+	  font-family: "Bradley Hand", cursive;
+	  position: absolute;
+	  width:300px;
+	  top: 190px;
+      LEFT: -400px;
+	  margin:0 auto;
+      padding: 20px;
+	  background-color:white;
+      border: 4px solid orange;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+	  border-radius: 28px;
+}
+.box4{
+	  font-size: 16px;
+	  font-family: "Bradley Hand", cursive;
+	  position: absolute;
+	  width:300px;
+	  top: 235px;
+      LEFT: 620px;
+	  margin:0 auto;
+      padding: 20px;
+	  background-color:white;
+      border: 4px solid orange;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+	  border-radius: 28px;
+}
+.box5 {
+	  font-size: 16px;
+	  font-family: "Bradley Hand", cursive;
+	  position: absolute;
+	  width:300px;
+	  top: 120px;
+      LEFT: -400px;
+	  margin:0 auto;
+      padding: 20px;
+	  background-color:white;
+      border: 4px solid orange;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+	  border-radius: 28px;
+}
+.box6 {
+	  font-size: 16px;
+	  font-family: "Bradley Hand", cursive;
+	  position: absolute;
+	  width:300px;
+	  top: 170px;
+      left: 600px;
+	  margin:0 auto;
+      padding: 20px;
+	  background-color:white;
+      border: 4px solid orange;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+	  border-radius: 28px;
+}
+
+.box-text{
+	text-align: center;
+	font-family: "Bradley Hand", cursive;
+}
+
+ p6{
+	color: white;
+	margin:5px;
+	font-family: "Bradley Hand", cursive;
+	font-weight: normal;
+	font-size: 29px
+ }
+ 
+ p7{
+	color: white;
+	margin:5px;
+	font-family: "Bradley Hand", cursive;
+	font-weight: normal;
+	font-size: 29px
+ }
+
+   p{
+	margin:5px;
+	font-family: "Bradley Hand", cursive;
+	font-weight: normal
+}      
+  h1{
+    color:WHITE;
+	font-family: "Impact", fantasy;
+	font-size: 60pt
+
+}	
+
+ audio{
+	  position: absolute;
+	  width:300px;
+	  top: 3545px;
+      LEFT: 400px;
+}
+
+z{
+	 position: absolute;
+	  width:300px;
+	  top: 3530px;
+      LEFT: 790px;
+	  margin:0 auto;
+      padding: 20px;
+}
+
+
+body{
+    background-image:url("https://i.pinimg.com/564x/b4/db/e3/b4dbe3092cc964e5d6a857290a16cc43.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center;
+	background-size: cover;
+	max-width: 100%;
+}
+
+.bouton{
+    margin: 15px;
+    background-color: orange;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    border-radius: 28px;
+	position: absolute;
+	bottom: -3340px;
+	LEFT: 20px;
+}
+
+.bouton:hover{
+	background-color: BROWN;
+}
+
+.suivant {
+	margin: 15px;
+	position: absolute;
+	bottom: -3340px;
+	LEFT: 1050px;
+	position: right;
+    background-color: orange;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    border-radius: 28px;
+}
+
+.suivant:hover{
+	background-color: BROWN;
+}
+
+.menu a {
+    margin: 15px;
+	position: absolute;
+	bottom: -3340px;
+	right: 550px;
+    background-color: orange;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    border-radius: 28px;
+}
+
+.menu a:hover{
+	background-color: BROWN;
+}
+	   

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta charset="UTF-8">
+    <title>Madagascar(le film)</title>
+	<link href="style.css" rel="stylesheet" />
+	</head>
+	
+    <body>
+     <div class="banniere"> 
+     <div class="centered">.</div>	 
+	  <h1><center>MADAGASCAR 1</center></h1>
+     </div>
+	</body>
+	
+	<h2><center><font size="15"><font color="white"><b><u>Synopsis</u></b></font></font></center></h2>
+	 
+	<p>
+	<div class="image-container0">
+	
+	<img src ="https://i.pinimg.com/originals/8e/a9/9d/8ea99da06d78ba0dea7083121ae7f47b.jpg" height = "380" width = "570" class="arrondie"/>
+	   <div class="box0">
+         <p class = "box-text"> Dans le premier des trois films, Alex, Melman, Gloria et Marty vivent une vie calme et paisible au zoo de Central Parc mais ils vivent surtout des journées routinères. Marty
+	commença alors à se lasser de cette vie ennuyeuse.</p>
+        </div>
+	</div>	
+		
+	<div class="image-container1">	
+	<img src ="https://fr.web.img5.acsta.net/pictures/17/02/10/14/52/069674.jpg" height = "380" width = "570" class="arrondie"/>
+	   <div class="box1">
+	<p class = "box-text"> Influencé par les 4 pingouins qui étaient sur le point de s'échapper du zoo pour retourner en Antarctique, il commença lui aussi à rêver de liberté et de la vie sauvage sur ses
+	terres natales.</p>
+	    </div>
+	</div>	
+		
+	<div class="image-container2">	
+	<img src ="https://i.pinimg.com/564x/27/4a/cd/274acdc1d0ecb7cfe229e82d9704c725.jpg" height ="380" width = "570" class="arrondie"/>
+	   <div class="box2">
+	<p class = "box-text">Il s'échappe alors du zoo avec ses amis pour découvrir le monde extérieur mais ils se feront rapidement arrêter par les autorités.</p>
+	   </div>
+	</div>
+	   
+	   
+	<div class="image-container3">   
+	<img src ="https://d-tm.ppstatic.pl/kadry/25/af/d05f9dc119ed54159dfe51b37ad8.1000.jpg" height = "380" width = "570" class="arrondie"/>
+	   <div class="box3">
+	   <p class = "box-text">Après une série de mésaventures que je vous laisse découvrir lors du visionnage du film, le groupe d'amis se retrouve coincé sur l'île de Madagascar pour le plus grand plaisir de Marty!</p>
+	   </div>
+	</div>   
+	   
+	<div class="image-container4">   
+	<img src ="https://i.pinimg.com/564x/d6/c6/d2/d6c6d2f44ce2cf52be4f6dfb5e1ba110.jpg" height = "380" width = "570" class="arrondie"/>
+	   <div class="box4">
+	   <p class = "box-text"> C'est ici qu'il feront la rencontre du célèbre king Julian et qu'ils essayeront de s'adapter à la vie sauvage.</p>
+	   </div>
+	</div>   
+	   
+	<div class="image-container5">   
+	<img src ="https://static.fanpage.it/wp-content/uploads/sites/17/2015/09/setak-gd.jpg" height = "400" width = "570" class="arrondie"/>
+	   <div class="box5">
+	   <p class = "box-text"> Cependant Alex, grand fan de viande commence à perdre la raison car il ne mange plus depuis plusieurs jours sur cette île. Il succombe alors peu à peu
+	    à la folie et commence à devenir une réelle bête sauvage affamée.</p>
+		</div>
+	</div>	
+		
+	<div class="image-container6">	
+	<img src = "https://mvcdn.fancaps.net/174122.jpg" "400" width = "570" class="arrondie"/> 
+	   <div class="box6">
+	   <p class = "box-text">Succombera t-il à son côté animalié et carnivore qui le pousse à manger les lémuriens de l'île et même ses<strong> propres 
+	amis</strong> ou résistera t-il à la tentation ? </p>
+	   </div>
+	</div>
+	
+	</p>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<p6> Je vous laisse <a href="https://youtu.be/BaK_dCpAidE">Cliquer ici</a> afin de vous faire une petite idée du film en découvrant sa bande d'annonce.
+	</p6>
+	<br>
+	<br>
+	<p7>	
+	De plus c'est dans ce film qu'apparaît la <strong>célèbre musique </strong><font color="#FFA500">" I like to move it "</font> que vous pouvez écouter ci-dessous
+	et qui chanté par king Julian lors d'une fête qu'il oragnise sur l'île de Madagascar :
+	</p7>
+	<br>
+	<p>
+	<audio src="audio.mp3" controls/></p>
+	</audio>
+	</p>
+	
+	<z><p style= "float right"><img src = "dance.gif" /></p></z>
+	
+	<p style= "float left"><img src = "julian.gif" height = "210" width = "210"/>
+	
+	<P>
+	<a href='#' class="bouton" onclick="history.back();">RETOUR</button></a>
+	</P>
+	<button class="suivant" onclick="window.location.href='mada2'">Madagascar 2</button>
+	
+	<div class="menu">
+    <a href="index">ACCUEIL</a>
+    </div>
+	
+</html>
+   

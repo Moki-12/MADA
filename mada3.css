@@ -1,0 +1,160 @@
+.video-container {
+            position: relative;
+            width: 50%;
+            height: 0;
+            padding-bottom: 56.25%;
+}
+
+.video-container iframe {
+            position: absolute;
+            top: 50px;
+            left: 10px;
+            width: 60;
+            height: 40;
+}
+
+.video-containerr {
+            position: relative;
+            width: 50%;
+            height: 0;
+            padding-bottom: 56.25%;
+}
+
+.video-containerr iframe {
+            position: absolute;
+            top: 252px;
+            left: 10px;
+            width: 60;
+            height: 40;
+}
+
+.banniere {
+	padding: 100xp;
+	PADDING-top:37px;
+    background-image: url("https://i.pinimg.com/736x/02/f7/8f/02f78f42ecf06390d76324724effc009.jpg");
+	background-size: 1450px 600px;
+	background-repeat:no-repeat;
+    background-position:center ;
+    opacity: 0.9;
+	height: 36vh;
+}
+
+img{
+	position: absolute;
+	top: 690px;
+	left: 850px;
+}
+
+body{
+    background-image:url("https://vignette2.wikia.nocookie.net/penguinsofmadagascar/images/f/f2/Madagascar_3_circus.jpg/revision/latest?cb=20120512200712");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:bottom center;
+	background-size: cover;
+	max-width: 100%;
+}
+
+p{
+	color: white;
+	margin:5px;
+	font-family: "Bradley Hand", cursive;
+	font-size: 26px;
+}
+
+w{
+	margin: 15px;
+	position: absolute;
+	top: 500px;
+	left: 50px;
+}
+
+x{
+	margin: 15px;
+	position: absolute;
+	top: 50px;
+	right:1531px;
+}
+
+t{
+	position: absolute;
+	top: 1215px;
+}
+
+h1{
+	color: WHITE;
+	font-size: 60px;
+	position: absolute;
+	top: 7px;
+	left:380px;
+}
+
+t{
+	position: absolute;
+	bottom: -1387px;
+	left: 5px
+}
+
+S{
+    margin: 15px;
+	position: absolute;
+	top: 1070px;
+	right:1255px;
+}
+
+l{
+    margin: 15px;
+	position: absolute;
+	top: 1284px;
+	right:1428px;
+}
+
+O{
+	position: absolute;
+	bottom: -1483px;
+	left: 620px
+}
+	
+
+m{
+	position: absolute;
+	bottom: -1623px;
+	left: 220px
+}
+	
+.bouton{
+    margin: 15px;
+    background-color: orange;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    border-radius: 28px;
+	position: absolute;
+	bottom: -1637px;
+	LEFT: 20px;
+}
+
+.bouton:hover{
+	background-color: BROWN;
+}
+
+.menu a {
+    margin: 15px;
+	position: absolute;
+	bottom: -1637px;
+	right: 10px;
+    background-color: orange;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    border-radius: 28px;
+}
+
+.menu a:hover{
+	background-color: BROWN;
+}

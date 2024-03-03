@@ -1,0 +1,139 @@
+body{
+    background-image:url("https://cdn.wallpapersafari.com/27/62/bhT29H.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:bottom center;
+	background-size: cover;
+	max-width: 100%;
+}
+
+.banniere {
+	padding: 100xp;
+    background-image: url("https://i.pinimg.com/736x/ff/ff/46/ffff46139193062e1d4a0760b1145c5a.jpg");
+	background-size: 1450px 600px;
+	background-repeat:no-repeat;
+    background-position:center ;
+    opacity: 0.9;
+	height: 43vh;
+}
+
+
+pa{
+	color: white;
+	margin:5px;
+	font-family: "Bradley Hand", cursive;
+	font-size: 27px;
+}
+	
+	
+p{
+	color: black;
+	margin:5px;
+	font-family: "Bradley Hand", cursive;
+	font-size: 26px;
+}
+
+h1{
+	color: WHITE;
+	font-family: "Impact", fantasy;
+	position: absolute;
+	top: 5px;
+	left:390px;
+	font-size:73px;
+}
+
+.bordered-text {
+  border: 4px solid ORANGE;
+  padding: 10px;
+  border-radius: 28px;
+  color: black;
+  margin:5px;
+  font-family: "Bradley Hand", cursive;
+  font-size: 18px;
+  background-color: white;
+  opacity: 0.8
+}
+
+img {
+    filter: brightness(0.8);
+}
+
+.arrondie {
+   border-radius: 15px; 
+}
+	
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 17px;
+  
+}
+
+.image-item {
+  position: relative;
+  padding: 30px;
+}
+
+.image-text {
+  color: black;
+  text-align: center;
+  font-family: "Bradley Hand", cursive;
+  font-size: 26px;
+}
+
+.bouton{
+    margin: 15px;
+    background-color: orange;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    border-radius: 28px;
+	position: absolute;
+	bottom: -2147px;
+	LEFT: 20px;
+}
+
+.bouton:hover{
+	background-color: BROWN;
+}
+
+.suivant {
+	margin: 15px;
+	position: absolute;
+	bottom: -2147px;
+	right: 10px;
+    background-color: orange;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    border-radius: 28px;
+}
+
+.suivant:hover{
+	background-color: BROWN;
+}
+
+.menu a {
+    margin: 15px;
+	position: absolute;
+	bottom: -2147px;
+	right: 550px;
+    background-color: orange;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    border-radius: 28px;
+}
+
+.menu a:hover{
+	background-color: BROWN;
+}

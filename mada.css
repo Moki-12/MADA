@@ -1,0 +1,135 @@
+.conteneur {
+	display: flex;
+	justify-content: space-between;
+}
+
+.box {
+  background-image: url("https://i.pinimg.com/564x/8d/ab/c3/8dabc3428c0adfc7d9c7c0ab396c52de.jpg");
+  background-position:bottom;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 4px solid orange;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+  margin: 15px;
+  height: 250px;
+  width: 550px;
+  padding: 20px;
+  border-radius: 28px;
+}
+
+.image{
+	margin-right: 10px;
+}
+
+.contour-image {
+  border: 2px solid black;
+  border-radius: 28px;
+}
+
+.close {
+	position: absolute ;
+	top: 15px;
+	right: 35px;
+	color: orange;
+	font-size: 40px;
+	font-weight: bold; 
+	transition: 0.3s;
+}
+
+.close:hover,
+.close:focus{
+	color: #bbb;
+	text-decoration: none;
+	cursor: pointer;
+}
+	
+ p{
+	color: white;
+	margin:5px;
+	font-family: "Bradley Hand", cursive;
+	font-weight: normal;
+}
+ 
+ p1{
+	font-family: "Bradley Hand", cursive;
+	font-weight: normal;
+	font-size: 20px
+ }
+ 
+h4{
+	position: center;
+	font-weight: bold;
+	font-family: "Bradley Hand", cursive;
+	font-size: 25pt;
+	margin: 10px
+}
+
+.banniere {
+	padding: 100xp;
+	PADDING-top:37px;
+    background-image: url("https://i.pinimg.com/736x/41/c3/fb/41c3fb9478010ffb47821684bf186a28.jpg");
+	background-size: 1450px 500px;
+	background-repeat:no-repeat;
+    background-position:center ;
+	opacity: 0.9;
+	height: 43vh;
+}
+
+ h1{
+	color: white;
+	position: absolute;
+	top: 5px;
+	left:105px;
+	font-weight: bold;
+    color:WHITE;
+	font-family: "Impact", fantasy;
+	font-size: 55pt
+
+}
+
+body{
+	margin:10px;
+    background-image:url("https://i.pinimg.com/564x/24/a3/10/24a310b0ed71d987c8e3c79698c03fd2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+	background-size: cover;
+	max-width: 100%;
+}
+
+.bouton{
+    margin: 15px;
+    background-color: orange;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    border-radius: 28px;
+}
+
+.bouton:hover{
+	background-color: BROWN;
+}
+
+.suivant {
+	margin: 15px;
+	position: absolute;
+	bottom: -1480px;
+	right: 10px;
+    background-color: orange;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    border-radius: 28px;
+}
+
+.suivant:hover{
+	background-color: BROWN;
+}

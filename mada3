@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta charset="UTF-8">
+    <title>Madagascar(le film)</title>
+	<link href="mada3.css" rel="stylesheet" />
+	</head>
+	
+	<body>
+     <div class="banniere"> 
+     <div class="centered">
+	 </div>	 
+	  <h1><center>MADAGASCAR 3<br> bon baisers d'Europe</center></h1>
+     </div>
+	</body>
+	
+	<h2><center><FONT size=30><font color=white>Synopsis</font></font></center></h2>
+	<br>
+	
+	<div class="bordered-text">
+	<p>Dans ce dernier film, Alex, Marty, Melman et Gloria aspirent à rentrer chez eux à New York afin de retrouver le cadre familial du zoo de 
+	Central parc. Ils quittent alors l'Afrique pour aller chercher les pingouins qui se trouvent au casino de Monte Carlo afin de tous se rendre en Amérique.
+	Mais cette fois-ci leur nouvelle expédition rocambolesque et dégentée les mène en Europe où ils sont contraints de se faire passer pour des animaux de cirque pour rejoindre
+	une troupe d'animaux de cirque qui se rende en Amérique pour leur tournée.
+	Tout au long du film, la bande d'Alex aidera alors les animaux du cirque à dépasser leur limites et monter un spectacle extraordinaire afin que ces deriers puissent être repérés par 
+	un grand recruteur et pour qu'ils puissent par la même occasion rentrer à New York grâce à eux.</p>
+	</div>
+	<BR>
+	
+	<div class="bordered-text">
+	<p>C'est dans ce film que nous retrouvons un remix de la musique<BR>"I like to move it" qui est cette fois-ci chanté par Marty le zèbre <BR>
+	et que vous pouvez regarder ci-dessous:</p>
+	</div>
+	
+	<div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/EzOpPl49CqE?si=1-lj1MuNLXqa_x1H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+	
+	<x>
+	<img src ="pingou.png" alt ="film" height = "460" width = "330"/>
+	</x>
+	
+	<img src ="https://i.pinimg.com/564x/13/8b/8c/138b8cec0d54e4d99defab2b459ac9b0.jpg" alt ="film" height = "510" width = "380"/>
+	
+	<t>
+	<p>En parallèle tout au long du film, l'agent de contrôle pour animaux Chantal<br> Dubois tentera de capturer la bande d'Alex afin d'accrocher leurs têtes <br>sur son mur pour compléter sa collection de trophée de chasse(têtes d'animaux) <br>mais également afin de faire régner la loi. Elle suivra alors 
+	bande d'animaux<br> dans toute l'Europe et ne renoncera devant aucuns obstacles afin de les<br> capturer.Alex, Marty, Melman et Glorya tenteront alors tout
+	en montant un<br> spectacle, de lui échapper mais également de cacher leur véritable but<br> qui est de rentrer à New York au zoo de Central Parc au près de la troupe<br>des animaux du cirque !<br> <br> Je vous laisse <a href="https://youtu.be/EcEOkJKsEn4">Cliquer ici</a> pour regarder 
+	la bande d'annonce du film <br>et ci-dessous, vous pouvez admirer un des numéros de leur spectacle <BR>final qui est éxécuté par Vitaly le tigre de la troupe d'animaux du <br>cirque et qui est pour le moins un numéro habituelle et ordinaire:</p>
+	</t>
+	<w>
+	<img src ="https://static.wikia.nocookie.net/villains-fr/images/c/ce/Captain_Chantal_DuBois.png/revision/latest?cb=20200507194801&path-prefix=fr" alt ="film" height = "510" width = "380"/>
+	</w>
+	
+	<div class="video-containerr">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ga1Hb8yVYbQ?si=V_Dyk8t3jDoP-VWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+	
+	<S><img src ="https://cinefilms-planet.fr/wp-content/uploads/2023/12/image-madagascar-3-bons-baisers-europe-04.jpg" height = "270" width = "400"/></S>
+	
+	<O><p><strong>Voici la troupe<br> d'animaux du<br> cirque</strong></p></O>
+	
+	<L><img src ="https://static.vecteezy.com/system/resources/previews/010/112/273/non_2x/3d-isolated-white-arrow-free-png.png" height = "150" width = "220"/></L>
+	
+	<m><p> J'espère que vous aurez apprécié l'univers du monde de <font color="#FFA500">Madagascar</font>!</p></m>
+	
+	 <a href='#' class="bouton" onclick="history.back();">RETOUR</button></a>
+	
+	<div class="menu">
+    <a href="index">ACCUEIL</a>
+    </div>
+	
+</html>

@@ -1,0 +1,95 @@
+.cercle {
+    justify-content: center;
+    border-radius: 50%;
+	width:200px;
+	height:200px;
+	border: 4px solid orange;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.8);
+	
+}
+.image-container {
+    display: inline-block;
+    text-align: right;
+    margin-right: 70px;
+	transition: transform 0.3s;
+}
+
+.image-container:hover img {
+  transform: scale(1.1);
+}
+
+
+
+img:hover{
+	opacity:0.8;
+}
+
+Z{
+	font-family:"Bradley Hand", cursive;
+	font-size: 16pt;
+	text-align: center ;
+	color: #E1C699;
+	font-weight: 800;
+}
+
+Y{
+	font-family:"Bradley Hand", cursive;
+	font-size: 16pt;
+	text-align: center ;
+	color: #E1C699;
+	font-weight: 800;
+	margin-left: 35px;
+}
+
+y{
+	font-family:"Bradley Hand", cursive;
+	font-size: 16pt;
+	text-align: center ;
+	color: #E1C699;
+	font-weight: 800;
+	margin-left: 25px;
+}
+	
+	
+ p1{
+	font-family:"Bradley Hand", cursive;
+	font-size: 19pt;
+	color: #371D10;
+	font-weight: 800;
+}
+s{
+	opacity: 0.0;
+}
+
+h1{
+    margin-top: 45PX;
+    font-weight: bold;
+    background: linear-gradient(#ff4500, #eaa222);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+	font-family: "Impact", fantasy;
+	font-size: 55pt;
+}
+
+ p{
+	font-family:"Bradley Hand", cursive;
+	font-size: 16pt;
+	text-align: center ;
+	color: #371D10;
+	font-weight: 800;
+}
+	 
+body{
+    background-image:url("https://i.pinimg.com/564x/e0/20/09/e0200942de13e654664704e9fb2056c3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center;
+	background-size: cover;
+}
+
+
+ 
+ 
+
+
+

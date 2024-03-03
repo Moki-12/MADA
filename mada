@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta charset="UTF-8">
+    <title>Madagascar(le film)</title>
+	<link href="mada.css" rel="stylesheet" />
+	</head>
+	
+    <header>
+     <div class="banniere"> 
+     <div class="centered"> 
+	  <h1><center>MADAGASCAR<br><FONT size="20pt"> présentation générale du film et de ses personnages</FONT></center></h1>
+     </div>
+	</header>
+	<br>
+	<p>
+	<FONT size="5pt"><font color="#FFA500">Madagascar</font> est un film d'animation d'origine Américaine ,sorti en 2005 et qui a connu un grand succès grâce à son univers drôle et surprenant,
+	mais surtout grâce à ses personnages hilarants. Ce film nous embarque dans les <b>folles aventures dégentées</b> d'Alex le lion , Marty le zèbre, Melman la girafe et Gloria l'hyppopotame. 
+	C'est un film à la fois drôle et émouvant qui mérite d'être vu !</FONT>
+	</p>
+	<br>
+	<h2><font color="white"><center><font size="9"><b><u>Synopsis général</u></b></font></center></font></h2>
+	<br><div STYLE="text-align: left;"><font size="5pt"><p> Après s'être échappé du <font color="#FFA500">zoo Central Parc</font> , le groupe d'amis va à travers <strong>3 films</strong>, voyagé dans le <strong>monde</strong> en<br> quête de nouvelles aventures 
+	et par la même occasion faire de nouvelles rencontres innatendues et vivre des expériences hors du communs! C'est à l'aide de <strong>l'incroyable bande des 4 pingouins</strong> que les animaux vont entâmer leur <strong>périple </strong>et voyager de pays en pays.</p><FONT></div>
+    <br>
+    <h3><center><font size="9"><font color="white"><u>Les personnages</u></font></font></center></h3>
+
+<body>
+	<div class = "conteneur">
+	<div class="box">
+      <div class="image">
+        <a href="ALEXX.jpg"><img src="https://i.pinimg.com/564x/47/dc/6d/47dc6d1bdd4fc6638f045ea1dc92c7c2.jpg" title = " Alex " height = "270" width = "200" class="contour-image"></a>
+      </div>
+      <div class="content">
+        <h4>Alex</h4>
+        <p1>Personnage principal du film et leader de son groupe d'amis, Alex est un lion talentueux qui est la vedette du zoo de Central parc.
+		Il adore se donner en spectacle et raffole des steaks. Il est très égocentrique et il est connu pour son grand talent de danseur.</p1>
+      </div>
+    </div>
+
+    <div class="box">
+      <div class="image">
+        <a href="MARTY.jpg"><img src="MARTY.png" title = " Marty " height = "270" width = "330" class="contour-image"></a>
+      </div>
+      <div class="content">
+        <h4>Marty</h4>
+        <p1>Meilleur ami d'Alex avec lequel il est très proche, Marty est un zèbre drôle qui est connu pour son côté énergitique
+		et d'aventurier.</p1>
+      </div>
+    </div>
+	</div>
+	 
+    <div class = "conteneur">
+	<div class="box">
+      <div class="image">
+        <a href="MELMAN.jpg"><img src="https://i.pinimg.com/564x/22/38/37/223837d69dda1742cfa91fbe10e26293.jpg" title = " Melman " height = "265" width = "200" class="contour-image"></a>
+      </div>
+      <div class="content">
+        <h4>Melman</h4>
+        <p1>Melman est une girafe hypocondriaque qui est connu pour sa maladresse qui ajoute un côté humoristique aux aventures des animaux.
+		Il est secrètement amoureux de Glorya et il tentera de lui avouer au cours des 3 films.</p1>
+      </div>
+    </div>
+	
+	<div class="box">
+      <div class="image">
+        <a href="gloria.jpg"><img src="https://i.pinimg.com/474x/89/77/bc/8977bcca017ed0ed6490191493da1d62.jpg" title = " Glorya " height = "275" width = "195"class="contour-image"></a>
+      </div>
+      <div class="content">
+        <h4>Gloria</h4>
+        <p1>C'est la maman et la voix de la raison du groupe. Elle est à la fois forte de par sa porture imposante et douce de par son côté
+		attentionné.</p1>
+      </div>
+     </div>
+    </div>
+	
+    <div class = "conteneur">
+	 <div class="box">
+      <div class="image">
+        <a href="PIN.PNG"><img src="https://i.pinimg.com/564x/cc/dd/ce/ccddce588555c3aebf16a6a8492847ef.jpg"  alt = " Pingouins " height = "240" width = "240"class="contour-image"></a>
+      </div>
+      <div class="content">
+        <h4>Les pingouins</h4>
+        <p1>Ces pingouins sont à eux 4 très doués pour élaborer des plans et des engins pour aider la bande d'Alex
+		durant leurs aventures. Elle est composée de Skipper le chef, Kowalski le cervau, Rico le sadique et Soldat le sympatique.</p1>
+      </div>
+    </div>
+	
+	 <div class="box">
+      <div class="image">
+        <img src="https://i.pinimg.com/564x/af/45/d2/af45d2b3f6f9137097efebbd9f78619f.jpg" alt ="king Julian" height = "280" width = "220"class="contour-image">
+      </div>
+      <div class="content">
+        <h4>King julian</h4>
+        <p1>Roi tyranique qui s'est auto proclamé roi des lémuriens de l'île de Mdagascar. Il adore être constament le centre de l'attention et
+		faire la fête dès qu'il en a l'occasion. Il passe sa vie à profiter et à s'amuser.</p1>
+      </div>
+     </div>
+    </div>
+</body>
+    <br>
+	<p> Maintenant que vous en avez appris plus sur les personnages du film et que vous connaissez le synopsis
+	général, vous pouvez désormais commencer à découvrir les films Madagascar !</p>
+    <br>
+    <a href='#' class="bouton" onclick="history.back();">RETOUR</button></a>
+	
+	<button class="suivant" onclick="window.location.href='mada1'">Madagascar 1</button>
+	
+</html>
